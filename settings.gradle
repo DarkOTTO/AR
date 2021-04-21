@@ -1,0 +1,2 @@
+include ':ccpoi'
+rootProject.name = "CCPOI"
